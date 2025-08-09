@@ -30,20 +30,20 @@ For Hardware:
 - [Ardino Uno,ultrasonic sensor,server motor]
 
 # Diagrams
-![Workflow](https://drive.google.com/file/d/1oZDZBJTvh1_R4FYXNbyUrYxRXPUCixjb/view?usp=drivesdk)
+![Workflow][https://drive.google.com/file/d/1oZDZBJTvh1_R4FYXNbyUrYxRXPUCixjb/view?usp=drivesdk]
 *Add caption explaining your workflow*
 
 # Schematic & Circuit
-![Circuit](https://drive.google.com/file/d/1oZDZBJTvh1_R4FYXNbyUrYxRXPUCixjb/view?usp=drivesdk)
+![Circuit][https://drive.google.com/file/d/1oZDZBJTvh1_R4FYXNbyUrYxRXPUCixjb/view?usp=drivesdk]
 
 
 # Build Photos
-![Components](https://drive.google.com/file/d/1pV8VWVLz9wmUyCPOiZg8q7JS4HRW2uRf/view?usp=drivesdk)
+![Components][https://drive.google.com/file/d/1pV8VWVLz9wmUyCPOiZg8q7JS4HRW2uRf/view?usp=drivesdk]
 Ardino,ultrasonic sensor,server motor,jumber wires
 (https://drive.google.com/file/d/14tvpJnYzfKZxtm_-oFvZrYFwakI9mrJo/view?usp=drivesdk)
 *List out all components shown*
 
-![Final](https://drive.google.com/file/d/1-HpoMKwCIUyFENoMLXx0eceQu0BHsx_z/view?usp=drivesdk)
+![Final][https://drive.google.com/file/d/1-HpoMKwCIUyFENoMLXx0eceQu0BHsx_z/view?usp=drivesdk]
 *Explain the final build*
 
 ### Project Demo
